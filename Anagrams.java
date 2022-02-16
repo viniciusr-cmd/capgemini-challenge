@@ -1,4 +1,3 @@
-// Online IDE - Code Editor, Compiler, Interpreter
 import java.security.*;
 import java.text.*;
 import java.util.*;
