@@ -14,6 +14,8 @@ public class Password {
     if (pwd.length() < 6) {
       cont = 6 - pwd.length();
       System.out.println(cont + " Special Chars is Required");
+    } else {
+      System.out.println("No Special Chars Required");
     }
   }
 }
