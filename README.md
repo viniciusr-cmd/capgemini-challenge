@@ -41,7 +41,7 @@ Saída (exemplo):
 `*****`
 `******`
 
-[Resolução: Questão 001](https://www.online-ide.com/p2ANkzonXm)
+### [Resolução: Questão 001](https://www.online-ide.com/p2ANkzonXm)
 
 ### Questão 2
 
@@ -64,7 +64,7 @@ Explicação:
 
 Ela pode tornar a senha segura adicionando 3 caracteres, por exemplo, &ab, transformando a senha em Ya3&ab. 2 caracteres não são suficientes visto que a senha precisa ter um tamanho mínimo de 6 caracteres.
 
-[Resolução: Questão 002](https://www.online-ide.com/AWi8gb9fEp)
+### [Resolução: Questão 002](https://www.online-ide.com/AWi8gb9fEp)
 
 ### Questão 3
 
@@ -88,4 +88,4 @@ Explicação:
 
 A lista de todos os anagramas pares são: [i, i], [q, q] e [ifa, fai] que estão nas posições [[0], [3]], [[8], [9]] e [[0, 1, 2], [1, 2, 3]].
 
-[Resolução: Questão 003](https://www.online-ide.com/NdbwV6cYTF)
+### [Resolução: Questão 003](https://www.online-ide.com/NdbwV6cYTF)
